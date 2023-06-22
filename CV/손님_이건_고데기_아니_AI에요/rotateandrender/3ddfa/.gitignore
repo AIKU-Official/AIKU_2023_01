@@ -1,0 +1,7 @@
+train.configs
+models
+*.npy
+*.pkl
+*.zip
+__pycache__
+.DS_Store

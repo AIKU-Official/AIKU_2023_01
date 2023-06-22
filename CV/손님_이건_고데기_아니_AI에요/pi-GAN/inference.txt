@@ -1,0 +1,3 @@
+python inverse_render.py  ./pretrained/CelebA/generator.pth  /root/AIKU/hair/dataset/src.jpg
+
+python inverse_render.py --image_size 128 --max_batch_size 1200000  ./pretrained/CelebA/generator.pth  /root/AIKU/hair/dataset/src.jpg

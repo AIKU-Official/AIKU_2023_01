@@ -1,0 +1,1 @@
+./results/rs_model/example/orig/yaw_0.0_input.png 1 94 123 156 123 114 169 101 190 147 191

@@ -1,0 +1,19 @@
+[기록]
+
+0. merge.py, merge_fin.py에 rotateandrender와 hairstyle_transfer를 합병
+
+hairstyle_transfer/
+rotateandrender/
+1. 위 두 폴더의 경로 관련 설정을 절대경로로 설정
+  ex) hairstyle_transfer/utils_hairstyle.py - 190line
+      hairstyle_transfer/run.py - 40~44line 
+
+2. hairstyle_transfer/run.py를 만들어 hairtransfer모듈화? -> 이후 merge_fin.py에서 import해서 사용
+
+3. hairstyle_transfer/hairstyle_transfer_tool.py - 6~9line sys.path추가
+
+4. gradio에 사용하는 함수를 if __name__ == '__main__':에 넣어 사용 --> 최종적으로 얘 수정해서 해결됨. 이거 하나만 문제였는지, 위의 사항들도 문제였는지는 미확인.
+
+
+
+# * 특이사항: gradio에서 오류가 발생할 때 rotateandrender/data/가 사라지는 경우가 있음. 그럴때는 Rotate-and-Render/data/ 복붙해서 복구가능.
