@@ -1,7 +1,10 @@
 # AIKU_2023_01
 ## AIKU 2023-01 Project Repository
 
+<a href = "https://www.youtube.com/watch?v=V6Dl7zd50j0&t=3s">
 <img src="https://img.shields.io/badge/Youtube Live-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
 
 📝 [발표 PPT](https://bit.ly/AIKUConference202301PPT) 
 
