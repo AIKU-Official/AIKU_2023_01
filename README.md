@@ -5,8 +5,11 @@
 <img src="https://img.shields.io/badge/Youtube Live-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
+<a href = "https://bit.ly/AIKUConference202301PPT">
+<img src="https://img.shields.io/badge/Downlaod PPT-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+</a>
 
-📝 [발표 PPT](https://bit.ly/AIKUConference202301PPT) 
+<p></p>
 
 🕒 진행 순서
 - 학회 소개
