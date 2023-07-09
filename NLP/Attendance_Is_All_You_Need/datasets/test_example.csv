@@ -1,0 +1,5 @@
+chapter,page,question,answer
+1.1,5,What name IETF standards documents are called by?,The IETF standards documents are called requests for comments (RFCs).
+1.1,7,What is the definition of socket interface?,This Internet socket interface is a set of rules that the sending program must follow so that the Internet can deliver the data to the destination program
+1.1,8,What are the entities of network protocols?,"A network protocol is similar to a human protocol, except that the entities exchanging messages and taking actions are hardware or software components of some device (for example, computer, smartphone, tablet, router, or other network-capable device). "
+1.1,9,What happens first when you make a request to a Web server?,"First, your computer will send a connection request message to the Web server and wait for a reply."
