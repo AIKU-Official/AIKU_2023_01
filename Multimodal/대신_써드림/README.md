@@ -12,5 +12,3 @@ Member : **구은아**, 최진혁, 오원준
 
 
 ## Dataset
-
-KoGPT 모델의 finetuning을 위하여 고려대학교 에브리타임 Hot게시판(https://everytime.kr/hotarticle)의 게시글을 사용하였습니다. 크롤링한 게시물의 기간은 2017-2023년이며, 90만 개 이상의 단어가 포함되어 있습니다.
